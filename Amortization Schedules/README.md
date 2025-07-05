@@ -1,5 +1,5 @@
-Objective:
+# Objective:
 The goal of this Excel assignment was to build amortization schedules for a 30-year mortgage and a 5-year car loan, each with monthly payments and adjustable loan amounts and interest rates. For the mortgage, we set up a $250,000 loan with an 8% annual interest rate and calculated monthly payments, interest, principal paid, and outstanding balances across the full loan term. We then analyzed total interest paid and the balance remaining at key time points (10, 15, and 20 years). We explored the impact of making a $20,000 lump-sum payment after two years, which shortened the loan payoff period and reduced total interest paid. A similar process was followed for the car loan, using a 5-year, $25,000 loan at 10% interest.
 
-Potential Applications:
+# Potential Applications:
 This assignment gives practical insights into how loans are repaid and how extra payments affect interest and payoff time. These skills are directly useful in personal financial planning, such as understanding mortgage costs, evaluating car loan options, or deciding when to make extra payments. On a professional level, these concepts are foundational for actuarial work, finance, banking, and real estate, where evaluating cash flows, interest schedules, and financial risk is critical. The spreadsheet can also serve as a personal budgeting tool throughout life.
